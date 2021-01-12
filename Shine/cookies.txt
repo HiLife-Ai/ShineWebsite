@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.calendly.com	TRUE	/	FALSE	1999999999	__cfduid	dfca2cb43656f3146f25597c754ddff681603432902
+calendly.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
